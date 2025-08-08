@@ -10,7 +10,6 @@ A portfolio-ready NBA analytics project that:
 - Saves visuals in `outputs/`, including a social banner
 
 ## Data Sources
-- Kaggle (2014–15): NBA shot logs (SportVU)
 - NBA Stats API via `nba_api` (`ShotChartDetail`)
 
 **Please comply with NBA.com Terms of Use when accessing data.**
