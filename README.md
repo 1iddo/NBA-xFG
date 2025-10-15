@@ -154,16 +154,6 @@ Additionally, some court bins have **few attempts**, so observed FG% is volatile
 
 ---
 
-## 📣 Social Post (LinkedIn-ready)
-
-> **Shot Quality vs. Shot-Making in the NBA**  
-> I built an xFG% model that predicts the probability of a shot going in and mapped it to the court.  
-> • **Hexbin heatmaps** show where teams/players shoot from  
-> • **xFG% heatmaps** show shot **quality** (independent of makes)  
-> • A **shot-making table** highlights who’s beating expectations (Actual FG% − xFG%)  
-> Evaluated with **Brier**, **LogLoss**, and a **Calibration Curve**.  
-> Repo + visuals below—feedback welcome!
-
 ---
 
 ## ⚖️ License
